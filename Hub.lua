@@ -92,6 +92,7 @@ CreateButton("talentPiano", "https://hellohellohell0.com/talentless-raw/TALENTLE
 CreateButton("Fly GIG", "https://raw.githubusercontent.com/user2345600/FlyGiG/main/FlyGiG.lua")
 CreateButton("DrivingEmp", "https://raw.githubusercontent.com/Marco8642/science/main/drivingempire")
 CreateButton("Auto TP", "https://raw.githubusercontent.com/48-create/CordGIG/refs/heads/main/maincode.lua")
+CreateButton("MillitäryT", "https://gist.githubusercontent.com/1diamondpro1/3ed16f3c81f74aede9a895dcd1fd4ba4/raw/fa95332a2d6c2045b3d18f2018ae998955856b1d/gistfile1.txt")
 
 -- K-Taste Toggle
 UIS.InputBegan:Connect(function(input, gameProcessed)
