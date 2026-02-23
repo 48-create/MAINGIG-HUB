@@ -93,7 +93,7 @@ CreateButton("infinity", "https://raw.githubusercontent.com/EdgeIY/infiniteyield
 CreateButton("Fly GIG", "https://raw.githubusercontent.com/user2345600/FlyGiG/main/FlyGiG.lua")
 CreateButton("DrivingEmp", "https://raw.githubusercontent.com/Marco8642/science/main/drivingempire")
 CreateButton("Auto TP", "https://raw.githubusercontent.com/48-create/CordGIG/refs/heads/main/maincode.lua")
-CreateButton("MillitäryT", "https://gist.githubusercontent.com/1diamondpro1/3ed16f3c81f74aede9a895dcd1fd4ba4/raw/fa95332a2d6c2045b3d18f2018ae998955856b1d/gistfile1.txt")
+CreateButton("Player TP", "https://raw.githubusercontent.com/48-create/tp-to-playerGIG/refs/heads/main/.gitignore")
 CreateButton("MillitäryT2", "https://raw.githubusercontent.com/MortyMo22/roblox-scripts/refs/heads/main/MilitaryTycoon")
 
 -- K-Taste Toggle
