@@ -93,6 +93,7 @@ CreateButton("infinity", "https://raw.githubusercontent.com/EdgeIY/infiniteyield
 CreateButton("Fly GIG", "https://raw.githubusercontent.com/user2345600/FlyGiG/main/FlyGiG.lua")
 CreateButton("DrivingEmp", "https://raw.githubusercontent.com/Marco8642/science/main/drivingempire")
 CreateButton("Auto TP", "https://raw.githubusercontent.com/48-create/CordGIG/refs/heads/main/maincode.lua")
+CreateButton("universal emote", "https://api.droply.lol/raw/Emotes.lua")
 CreateButton("Player TP", "https://raw.githubusercontent.com/48-create/tp-to-playerGIG/refs/heads/main/.gitignore")
 CreateButton("MillitäryT2", "https://raw.githubusercontent.com/MortyMo22/roblox-scripts/refs/heads/main/MilitaryTycoon")
 
