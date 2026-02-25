@@ -176,12 +176,12 @@ addToUniversal("Infinity Yield", "https://raw.githubusercontent.com/EdgeIY/infin
 addToUniversal("Fly GIG", "https://raw.githubusercontent.com/user2345600/FlyGiG/main/FlyGiG.lua")
 addToUniversal("Auto TP", "https://raw.githubusercontent.com/48-create/CordGIG/refs/heads/main/maincode.lua")
 addToUniversal("Universal Emote", "https://raw.githubusercontent.com/7yd7/Hub/refs/heads/Branch/GUIS/Emotes.lua")
-addToUniversal("Player TP", "https://raw.githubusercontent.com/48-create/tp-to-playerGIG/refs/heads/main/.gitignore", "Link evtl. falsch?")
+addToUniversal("Player TP", "https://raw.githubusercontent.com/48-create/tp-to-playerGIG/refs/heads/main/.gitignore")
+addToUniversal("talentPiano", "https://hellohellohell0.com/talentless-raw/TALENTLESS.lua", "Key nötig")
 -- Game-spezifisch
-addToGames("Blade Ball", "https://raw.githubusercontent.com/Urbanstormm/Project-Stark/main/Main.lua")
-addToGames("Driving Empire", "https://raw.githubusercontent.com/Marco8642/science/main/drivingempire")
-addToGames("Military Tycoon T2", "https://raw.githubusercontent.com/MortyMo22/roblox-scripts/refs/heads/main/MilitaryTycoon")
-addToGames("talentPiano", "https://hellohellohell0.com/talentless-raw/TALENTLESS.lua", "Key nötig")
+addToGames("Blade Ball", "https://raw.githubusercontent.com/Urbanstormm/Project-Stark/main/Main.lua", "Key nötig")
+addToGames("Driving Empire", "https://raw.githubusercontent.com/Marco8642/science/main/drivingempire", "Key nötig")
+addToGames("Military Tycoon T2", "https://raw.githubusercontent.com/MortyMo22/roblox-scripts/refs/heads/main/MilitaryTycoon", "Key nötig")
 addToGames("AK Admin", "https://absent.wtf/AKADMIN.lua", "Key nötig")
 -- Search-Funktion
 local function applySearch()
