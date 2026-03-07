@@ -178,6 +178,7 @@ addToUniversal("Auto TP", "https://raw.githubusercontent.com/48-create/CordGIG/r
 addToUniversal("Universal Emote", "https://raw.githubusercontent.com/7yd7/Hub/refs/heads/Branch/GUIS/Emotes.lua")
 addToUniversal("Player TP", "https://raw.githubusercontent.com/48-create/tp-to-playerGIG/refs/heads/main/.gitignore")
 addToUniversal("talentPiano", "https://hellohellohell0.com/talentless-raw/TALENTLESS.lua", "Key nötig")
+addToUniversal("RivalsALPHA", "https://raw.githubusercontent.com/48-create/rivals/refs/heads/main/.lua")
 -- Game-spezifisch
 addToGames("Blade Ball", "https://raw.githubusercontent.com/Urbanstormm/Project-Stark/main/Main.lua", "Key nötig")
 addToGames("Driving Empire", "https://raw.githubusercontent.com/Marco8642/science/main/drivingempire", "Key nötig")
